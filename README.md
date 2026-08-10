@@ -2,6 +2,8 @@
 
 General-purpose pipeline: OCR the image with any local Qwen VL model → generate LaTeX → compile PDF.
 
+./README_zh.md
+
 ## Quick Reference: Supported Use Cases
 
 | Mode | What it does | LaTeX class | Trigger examples |
