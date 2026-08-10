@@ -2,9 +2,21 @@
 
 General-purpose pipeline: OCR the image with any local Qwen VL model → generate LaTeX → compile PDF.
 
+
+[English](./README.md)   [中文版](./README_zh.md)
+
+
+
 ATTENTION! THIS SKILL DOESN'T INCLUDE LATEX, OLLAMA AND LOCAL QWEN MODEL!
 
-[中文版](./SKILL_zh.md)
+If you don't have resources we just mentioned, you can visit these websites below
+
+[Ollama](https://ollama.com)
+
+[Qwen model warehouse](https://huggingface.co/Qwen)
+
+[TeX Live download](https://tug.org/texlive/)
+
 
 ## Quick Reference: Supported Use Cases
 
