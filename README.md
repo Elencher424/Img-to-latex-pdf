@@ -2,6 +2,8 @@
 
 General-purpose pipeline: OCR the image with any local Qwen VL model → generate LaTeX → compile PDF.
 
+ATTENTION! THIS SKILL DOESN'T INCLUDE LATEX, OLLAMA AND LOCAL QWEN MODEL!
+
 [中文版](./SKILL_zh.md)
 
 ## Quick Reference: Supported Use Cases
