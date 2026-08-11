@@ -16,6 +16,18 @@ description: >
 
 通用流水线：用任意本地 Qwen VL 模型对图片进行 OCR → 生成 LaTeX 文档 → 编译为 PDF。
 
+## 请注意！
+
+本skill并不包含LATEX，Ollama和千问模型
+
+如果你没有这些资源，可以访问以下网站
+
+[Ollama 官网](https://ollama.com)
+
+[Qwen 模型仓库](https://huggingface.co/Qwen)
+
+[TeX Live 下载](https://tug.org/texlive/)
+
 ## 快速参考：支持的用例
 
 | 模式 | 功能 | LaTeX 文档类 | 触发示例 |
