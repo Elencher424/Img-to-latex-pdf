@@ -2,6 +2,18 @@
 
 Convert any image containing text, math, tables, or diagrams into a professionally formatted LaTeX document and compile to PDF — powered by local Qwen VL models.
 
+## ATTENTION!
+
+This skill doesn't include LATEX, Ollama and Qwen VL models. 
+
+If you don't have them, you can visit these websites below
+
+[Ollama](https://ollama.com)
+
+[Qwen model warehouse](https://huggingface.co/Qwen)
+
+[TeX Live download](https://tug.org/texlive/)
+
 
 ## Documentation
 
