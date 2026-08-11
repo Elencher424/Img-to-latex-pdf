@@ -2,6 +2,15 @@
 
 Convert any image containing text, math, tables, or diagrams into a professionally formatted LaTeX document and compile to PDF — powered by local Qwen VL models.
 
+
+## Documentation
+
+- [SKILL.md](./SKILL.md) — Full skill reference (English)
+- [SKILL_zh.md](./SKILL_zh.md) — 完整中文文档
+- [config.example.json](./config.example.json) — Configuration template with comments
+
+
+
 ## Features
 
 - **🖼️  5 OCR modes**: math solve, general OCR, table extraction, formula render, document digitization
@@ -117,11 +126,6 @@ img-to-latex-pdf/
 └── LICENSE
 ```
 
-## Documentation
-
-- [SKILL.md](./SKILL.md) — Full skill reference (English)
-- [SKILL_zh.md](./SKILL_zh.md) — 完整中文文档
-- [config.example.json](./config.example.json) — Configuration template with comments
 
 ## License
 
