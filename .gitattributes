@@ -1,0 +1,11 @@
+# Force LF line endings for all text files — consistent across Windows / Linux / macOS
+*       text    eol=lf
+
+# Explicitly mark file types
+*.py    text    eol=lf   diff=python
+*.md    text    eol=lf   diff=markdown
+*.json  text    eol=lf
+*.tex   text    eol=lf
+*.sh    text    eol=lf
+*.txt   text    eol=lf
+*.bat   text    eol=crlf
